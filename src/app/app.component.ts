@@ -11,6 +11,6 @@ export class AppComponent implements OnInit {
   oldTitle = "double-quotes"
 
   ngOnInit(): void {
-    
+    console.log("init component")
   }
 }
